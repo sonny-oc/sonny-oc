@@ -1,16 +1,14 @@
-### Hi there 👋
+### BEM VINDO AO MEU PERFIL 👋
+Me chamo _SONNY_, sou professor de **Pensamento Computacional** da Turma
+do 1ºA, do colégio estadual Polivalente.
 
+### FORMAÇÃO
+- Graduação em Licenciatura em Matemática pela **UEPG**
+- Mestrado em **Ensino de Ciência e Educação Matemática** pela **UEPG**
 
-**sonny-oc/sonny-oc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### REDES
+-
+-
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+### ESTE PERFIL
+Será utilizado para organizar e postar as atividades dos meus Alunos
